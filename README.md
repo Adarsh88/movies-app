@@ -1,6 +1,6 @@
 # movies-app
 
-Its shows the the latest movies and also we can search movies.
+It shows us latest movies and also we can search movies.
 
 ### Home page
 ![Screenshot (4)](https://user-images.githubusercontent.com/44509204/113179125-f1748280-926c-11eb-8117-60f96a901e85.png)
